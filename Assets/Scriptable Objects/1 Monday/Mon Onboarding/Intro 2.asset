@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28253323ca734521ba8f5a2c6b3b0b3f, type: 3}
+  m_Name: Intro 2
+  m_EditorClassIdentifier: 
+  storyText: 'Intro 2:
+
+
+    As a new employee, you will be offered one copy of the
+    WTG Industries employee handbook.  You are encouraged to read the employee handbook
+    thoroughly and refer to it often.  Failure to do so may diminish your chances
+    of success in our fine company!
+
+
+    DO NOT LOSE YOUR EMPLOYEE HANDBOOK!
+
+
+    Press
+    ''1'' to continue with Intro or
+
+
+    Press ''2'' to skip Intro
+
+'
+  finePrint: '
+
+    Enjoy your day!'
+  nextStates:
+  - {fileID: 11400000, guid: 1eb1a078f605d04c8be1149279969ea2, type: 2}
+  - {fileID: 11400000, guid: c11d7b1a8509d2df680e25105f21249b, type: 2}

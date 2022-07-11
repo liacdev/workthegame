@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28253323ca734521ba8f5a2c6b3b0b3f, type: 3}
+  m_Name: Intro 1
+  m_EditorClassIdentifier: 
+  storyText: "Monday: 8:00am\n\nWelcome to WTG Industries!  \n\nCongratulations! 
+    Your training is now complete!  As a new employee, you'll be expected to perform
+    a series of menial tasks and obey company policies like all of the other drones.\n\nPress
+    '1' to continue with Intro or\n\nPress '2' to skip Intro"
+  finePrint: 'Welcome  to WTG Industries!
+
+    Please try to stay alive!
+
+    Enjoy
+    your day!
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 63f18497fc19ff762a9ef9d71649223c, type: 2}
+  - {fileID: 11400000, guid: c11d7b1a8509d2df680e25105f21249b, type: 2}

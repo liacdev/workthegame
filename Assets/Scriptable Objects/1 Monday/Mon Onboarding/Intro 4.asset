@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28253323ca734521ba8f5a2c6b3b0b3f, type: 3}
+  m_Name: Intro 4
+  m_EditorClassIdentifier: 
+  storyText: "Intro 4:\n\nIf you are successful at work, the company will make huge
+    profits using your best ideas, though you probably will not earn much at all. 
+    \n\nWe hope you will enjoy working for our company as much as we plan to enjoy
+    your company here at our company.   \n\nDon\u2019t forget to read your employee
+    handbook, and remember, we have *free donuts on Friday! \n\nPress '1' to continue\n\n"
+  finePrint: '* The new employee (that''s you) brings the donuts.  Don''t forget!!
+
+    Enjoy
+    your day!'
+  nextStates:
+  - {fileID: 11400000, guid: c11d7b1a8509d2df680e25105f21249b, type: 2}

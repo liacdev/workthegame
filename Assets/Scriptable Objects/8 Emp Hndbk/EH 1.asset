@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28253323ca734521ba8f5a2c6b3b0b3f, type: 3}
+  m_Name: EH 1
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to the WTG Industries Employee Handbook!
+
+
+    We are delighted
+    that you have chosed to spend your remaining lifetime with us.  Please review
+    our policies in their entirety to ensure your own safety, as well as the safety
+    of the WTG Industries profit margin.
+
+
+    We look forward to getting the most
+    out of your employment with us!
+
+
+    Press ''1'' to continue to the next page
+
+
+    Press
+    ''2'' to close the employee handbook'
+  finePrint: '* '
+  nextStates: []

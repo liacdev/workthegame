@@ -649,10 +649,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '* Text correction: extermination
+  m_Text: '
 
-    ** The new employee (that''s you)
-    brings the donuts.  Don''t forget!!'
+    Enjoy your day!'
 --- !u!222 &525811356
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -847,7 +846,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 2034790303}
-  startingState: {fileID: 11400000, guid: 9d381668126de8691a0fa6e134732c1f, type: 2}
+  textComponent2: {fileID: 525811355}
+  startingState: {fileID: 11400000, guid: 3d1bfa44ede3799728f4d7975c170fb4, type: 2}
 --- !u!4 &700432280
 Transform:
   m_ObjectHideFlags: 0
