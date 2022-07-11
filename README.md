@@ -1,4 +1,4 @@
-Work: The Game!
+Work: The Game! v0-0-1
 
 Welcome to WTG Industries!
 
@@ -18,3 +18,13 @@ Don’t forget to read your employee handbook, and remember, we have **free donu
 
 * Text correction: extermination
 ** The new employee (that's you) brings the donuts.  Don't forget!!
+
+![WTGScreenShot](https://user-images.githubusercontent.com/76606408/178349583-e50faec3-313c-482c-88a4-6d1f56efa8d6.png)
+
+Version 0-0-1 Complete...
+Version 0-0-2 in progress
+
+Features to be added:
+- Story
+- Buttons
+- Better gameplay flow
