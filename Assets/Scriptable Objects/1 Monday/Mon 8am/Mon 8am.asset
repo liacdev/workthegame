@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28253323ca734521ba8f5a2c6b3b0b3f, type: 3}
-  m_Name: End 1
+  m_Name: Mon 8am
   m_EditorClassIdentifier: 
-  storyText: "Ending 1\n\nCongratulations!  \n\nYou got the good ending!\n\nPress
-    '1' to return to the Intro or\n\nPress '2' to restart and skip onboarding"
-  finePrint: '
-
-    Enjoy your day!'
+  storyText: "Good morning!  \n\nWelcome to your first day at WTG Industries!\n\nWe
+    hope you had a pleasant onboarding experience!\n\nPlease report to your supervisor. 
+    Do not forget to bring your employee handbook!\n\nPress '1' if you have your
+    employee handbook\n\nPress '2' if you do not have your employee handbook"
+  finePrint: 
   nextStates:
+  - {fileID: 11400000, guid: c157e3de8eabfff788ef95dfc363d073, type: 2}
   - {fileID: 11400000, guid: 3d1bfa44ede3799728f4d7975c170fb4, type: 2}
-  - {fileID: 11400000, guid: d50a3d804de5ddd06b0225a3d05f466d, type: 2}
