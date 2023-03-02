@@ -8,7 +8,7 @@ You will be offered an employee handbook.  You are encouraged to read the employ
 
 If you are successful at work, the company will make huge profits using your best ideas, though you probably will not earn much at all.  
 
-Failure to be successful may result in a series of disciplinary actions to include: verbal warnings, a slap on the wrist, demerits, loss of dignity, shaming, embarrassment, written warnings, physical assault, imprisonment, *termination, or depending on the severity of the offense, possible summary execution.  
+Failure to be successful may result in a series of disciplinary actions to include: verbal warnings, a slap on the wrist, demerits, loss of dignity, shaming, embarrassment, written warnings, physical assault, imprisonment, *termination, or depending on the severity of the offense, possible summary defenestration.  
 
 Fortunately, you cannot get fired.  
 
